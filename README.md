@@ -22,6 +22,8 @@ In conclusion, transforming Canada's government into "The Corporation of Canada"
 [Standard Government](https://chatgpt.com/g/g-DvKNjRFg1-standard-government)
 <br>
 [Government Model Simulator](https://chat.openai.com/g/g-8JwnHHEgc-government-model-simulator)
+<br>
+[History Simulator](https://github.com/sourceduty/History_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
