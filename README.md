@@ -17,6 +17,10 @@ Finally, the cultural and social fabric of Canada would be deeply affected by su
 In conclusion, transforming Canada's government into "The Corporation of Canada" would bring about extensive changes that could enhance efficiency and economic growth but at significant costs to social equality, democratic governance, and national cohesion. The potential benefits and drawbacks of such a move would need to be carefully considered, weighing the value of efficiency and profitability against the foundational principles of a democratic and inclusive society.
 
 #
+
+![Toronto](https://github.com/user-attachments/assets/0f752f63-3a48-4fa2-9d3a-7e0b828cbe6e)
+
+#
 ### Related Links
 
 [Standard Government](https://chatgpt.com/g/g-DvKNjRFg1-standard-government)
