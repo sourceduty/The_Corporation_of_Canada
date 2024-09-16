@@ -21,6 +21,10 @@ In conclusion, transforming Canada's government into "The Corporation of Canada"
 ![Toronto](https://github.com/user-attachments/assets/0f752f63-3a48-4fa2-9d3a-7e0b828cbe6e)
 
 #
+
+![The Canadas Meme](https://github.com/user-attachments/assets/77d9be00-5fb2-49d6-bdc6-f3243f152278)
+
+#
 ### Related Links
 
 [Standard Government](https://chatgpt.com/g/g-DvKNjRFg1-standard-government)
